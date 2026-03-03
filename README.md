@@ -26,10 +26,8 @@
 <li>
   Collaborated with a team to build an online event-booking web application; designed the UX/UI in Figma, And developed responsive front-end with HTML5, Tailwind CSS, and JavaScript/jQuery.
 </li>
+<a href=https://www.figma.com/design/zI0GpNPfQ9Qc24eltNK07y/BookITBuddies-V2?node-id=1-5&t=HcGJPIBLUD4E7IK3-1>Link to Figma</a>
 </ul>
-<sub>
-  https://www.figma.com/design/zI0GpNPfQ9Qc24eltNK07y/BookITBuddies-V2?node-id=1-5&t=HcGJPIBLUD4E7IK3-1
-</sub>
 <sub>
 Group Project for Modern Application Development course.
 </sub>
